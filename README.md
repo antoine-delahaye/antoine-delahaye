@@ -1,16 +1,33 @@
-### Hi there 👋
+## Bonjour, je suis [Antoine!](https://github.com/antoine-delahaye) 👋
 
-<!--
-**antoine-delahaye/antoine-delahaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Étudiant à l'IUT Informatique d'Orléans 🏛
 
-Here are some ideas to get you started:
+### À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Actuellement en deuxième année à l'IUT Informatique d'Orléans.
+
+💻 Passionné par le fonctionnement des ordinnateurs et la programmation, je me suis naturellement tourné vers ce domaine pour mes études
+
+✨ Au dela de l'informatique je m'interresse beaucoup à l'histoire, les sciences, la physique et le sport
+
+![Mes statistiques](https://github-readme-stats.vercel.app/api?username=antoine-delahaye&show_icons=true)
+
+### 📭 Me contacter
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoine.delahaye24.01@gmail.com)
+&nbsp; [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-delahaye-b5854a1b8/)
+
+### 📚 Les languages que je connais
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+&nbsp; ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+&nbsp; ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp; ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+&nbsp; ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+&nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+&nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+&nbsp; ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+&nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+[![Classement des languages que j'utilise](https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-delahaye&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
