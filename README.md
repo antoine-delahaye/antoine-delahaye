@@ -1,8 +1,8 @@
-## Bonjour, je suis [Antoine!](https://github.com/antoine-delahaye) 👋
+### Bonjour, je suis [Antoine!](https://github.com/antoine-delahaye) 👋
 
-## Étudiant à l'IUT Informatique d'Orléans 🏛
+### Étudiant à l'IUT Informatique d'Orléans 🏛
 
-### À propos de moi
+## À propos de moi
 
 🎓 Actuellement en deuxième année à l'IUT Informatique d'Orléans.
 
@@ -12,12 +12,12 @@
 
 ![Mes statistiques](https://github-readme-stats.vercel.app/api?username=antoine-delahaye&show_icons=true)
 
-### 📭 Me contacter
+## 📭 Me contacter
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoine.delahaye24.01@gmail.com)
 &nbsp; [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-delahaye-b5854a1b8/)
 
-### 📚 Les languages que je connais
+## 📚 Les languages que je connais
 
 &nbsp; ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 &nbsp; ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
