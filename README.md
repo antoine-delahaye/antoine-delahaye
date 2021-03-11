@@ -10,7 +10,7 @@
 
 ✨ Au dela de l'informatique je m'interresse beaucoup à l'histoire, les sciences, la physique et le sport
 
-![Mes statistiques](https://github-readme-stats.vercel.app/api?username=antoine-delahaye&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoine-delahaye&hide=issues&show_icons=true)
 
 ## 📭 Me contacter
 
@@ -29,4 +29,4 @@
 &nbsp; ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![Classement des languages que j'utilise](https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-delahaye&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoine-delahaye)](https://github.com/anuraghazra/github-readme-stats)
